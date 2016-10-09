@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"JavaScript"
+	],
+	"preview_on_click": false,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"wrap_width": 120
+}

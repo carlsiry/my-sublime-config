@@ -1,0 +1,3002 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Chenkansheng/Desktop/chapter-11",
+		"/C/Users/Chenkansheng/Desktop/blog"
+	],
+	"last_version": 3126,
+	"last_window_id": 56,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 696.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"function without name"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bo",
+						"border-box"
+					],
+					[
+						"B",
+						"BookAdmin\tclass"
+					],
+					[
+						"li",
+						"list_display"
+					],
+					[
+						"datim",
+						"DATETIME_INPUT_FORMATS"
+					],
+					[
+						"httpse",
+						"HttpResponse\tclass"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"Httprep",
+						"HttpResponse\tclass"
+					],
+					[
+						"scrip",
+						"script\tTag"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"datez",
+						"date_default_timezone_set"
+					],
+					[
+						"echo",
+						"echo\techo \"…\""
+					],
+					[
+						"src",
+						"source\tTag"
+					],
+					[
+						"u",
+						"utf-8"
+					],
+					[
+						"ta",
+						"tabindex\tAttr"
+					],
+					[
+						"fo",
+						"format\tfunction"
+					],
+					[
+						"cla",
+						"cla\tclass .. initialize .. end"
+					],
+					[
+						"mod",
+						"mod\tmodule .. end"
+					],
+					[
+						"ligh",
+						"lightsalmon"
+					],
+					[
+						"lig",
+						"lightpink"
+					],
+					[
+						"light",
+						"lightgoldenrodyellow"
+					],
+					[
+						"rea",
+						"relative"
+					],
+					[
+						"yel",
+						"yellowgreen"
+					],
+					[
+						"ind",
+						"z-index"
+					],
+					[
+						"dee",
+						"darkseagreen"
+					],
+					[
+						"deep",
+						"deepskyblue"
+					],
+					[
+						"arr",
+						"arr.png\tw:5 h:6"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"up",
+						"upper-armenian"
+					],
+					[
+						"dec",
+						"decimal-leading-zero"
+					],
+					[
+						"ste",
+						"style\tAttr"
+					],
+					[
+						"Math",
+						"Math.PI\tMath"
+					],
+					[
+						"gete",
+						"getElementsByTagName(name)\tElement"
+					],
+					[
+						"scri",
+						"script\tTag"
+					],
+					[
+						"aler",
+						"alert(message)\tWindow"
+					],
+					[
+						"v",
+						"var "
+					],
+					[
+						"srip",
+						"script\tTag"
+					],
+					[
+						"for",
+						"for-k"
+					],
+					[
+						"rq",
+						"request"
+					],
+					[
+						"get",
+						"getParameter"
+					],
+					[
+						"getU",
+						"getUphone"
+					],
+					[
+						"set",
+						"setInt"
+					],
+					[
+						"setu",
+						"setUphone"
+					],
+					[
+						"getc",
+						"getScomefrom"
+					],
+					[
+						"updateFacu",
+						"updateFaculty"
+					],
+					[
+						"modify",
+						"modifyFaculty_formPanel"
+					],
+					[
+						"新增",
+						"新增书籍成功"
+					],
+					[
+						"httpcrea",
+						"http.createServer(requestListener);"
+					],
+					[
+						"asserr",
+						"assert.strictEqual(actual, expected, message);"
+					],
+					[
+						"cont",
+						"console.trace();"
+					],
+					[
+						"e",
+						"end\t.end()"
+					],
+					[
+						"cons",
+						"console.error();"
+					],
+					[
+						"fswitefile",
+						"fs.writeFile(path, data, options, callback_);"
+					],
+					[
+						"writeF",
+						"fs.writeFile(path, data, options, callback_);"
+					],
+					[
+						"PH",
+						"phpversion"
+					],
+					[
+						"map",
+						"mapping"
+					],
+					[
+						"des",
+						"destroy"
+					],
+					[
+						"log",
+						"login"
+					],
+					[
+						"lg",
+						"loginPanel"
+					],
+					[
+						"bu",
+						"buttonAlign"
+					],
+					[
+						"x",
+						"xtype"
+					],
+					[
+						"f",
+						"form"
+					],
+					[
+						"pan",
+						"Panel"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"vie",
+						"viewport"
+					],
+					[
+						"pl",
+						"plugins"
+					],
+					[
+						"si",
+						"SIMIS"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"st",
+						"strokeWidth"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"bow",
+						"browser\t$.browser()"
+					],
+					[
+						"he",
+						"height\tAttr"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "pli",
+				"selected_items":
+				[
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"packrep",
+						"Package Control: Remove Package"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"save",
+						"Project: Save As"
+					],
+					[
+						"project",
+						"Project: Save As"
+					],
+					[
+						"p",
+						"Package Control: List Packages"
+					],
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"pdi",
+						"Package Control: Disable Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc",
+						"Package Control: List Packages"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"pd",
+						"Package Control: Disable Package"
+					],
+					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: p",
+						"Package Control: List Packages"
+					],
+					[
+						"pal",
+						"Package Control: List Packages"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"pkl",
+						"Package Control: List Packages"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"l",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgerp",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pkgr",
+						"Package Control: Remove Package"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"users",
+						"Nodejs::User File Settings"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"side B",
+						"View: Toggle Side Bar"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"m",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mak",
+						"Set Syntax: Markdown"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"List",
+						"Package Control: List Packages"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"jsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"Node",
+						"Nodejs::NPM::Command"
+					],
+					[
+						"nodejs",
+						"Nodejs::Build Completions"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jad",
+						"Set Syntax: Jade"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"ja",
+						"Set Syntax: Java"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"j",
+						"Set Syntax: Java"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"pci",
+						"Package Control: List Packages"
+					],
+					[
+						" pci",
+						"Package Control: List Packages"
+					],
+					[
+						"pci R",
+						"Package Control: List Packages"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 147.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Chenkansheng/Desktop/words.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/demo-00.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/css/demo-00.css",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/test.html",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/background-img-fixed.html",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/text-final.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/sky.png",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/background-img-scroll.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/backlight.jpg",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/bg-pattern.jpg",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/bluemosaic.jpg",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/no-styles.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/demo00.htm",
+				"/C/Users/Chenkansheng/Desktop/mynode/index.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/test.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/html.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/css.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/index.css",
+				"/C/Users/Chenkansheng/Desktop/mynode/css.markdown",
+				"/C/Users/Chenkansheng/Desktop/blog/app.js",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/index.js",
+				"/C/Users/Chenkansheng/Desktop/blog/views/reg.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/models/user.js",
+				"/C/Users/Chenkansheng/Desktop/blog/views/index.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/views/header.ejs",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Vagrant-l/SublimeNote.md",
+				"/F/程序驱动/新建文件夹/Hotfixs/1115024/_1024核工厂欢迎您.mht",
+				"/C/Users/Chenkansheng/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Vagrant-l/Sublime配置记录.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/Ruby面向对象.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/Ruby基础语法.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/rails基础.md",
+				"/C/Users/Chenkansheng/Desktop/blog/models/db.js",
+				"/C/Users/Chenkansheng/Desktop/blog/public/stylesheets/style.css",
+				"/C/Users/Chenkansheng/Desktop/blog/package.json",
+				"/C/Users/Chenkansheng/Desktop/blog/views/login.ejs",
+				"/C/Users/Chenkansheng/Desktop/app.js",
+				"/C/Users/Chenkansheng/Desktop/blog/setting.js",
+				"/C/Users/Chenkansheng/AppData/Local/Temp/360zip$Temp/360$0/README",
+				"/C/Users/Chenkansheng/Desktop/blog/views/footer.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/user.js",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/index.js",
+				"/C/Users/Chenkansheng/Desktop/blog/bin/www",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/web.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/express.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/tcp.js",
+				"/C/Users/Chenkansheng/Downloads/node-style-guide-master/README.md",
+				"/C/Users/Chenkansheng/Desktop/RegExp.markdown",
+				"/C/Users/Chenkansheng/Desktop/shiyanlou/模板(二).md",
+				"/C/Users/Chenkansheng/Desktop/JS_note/RegExp.md",
+				"/C/Users/Chenkansheng/Desktop/Ruby_note/Ruby面向对象.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/vagrantfile配置详解.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/安装rails.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/Vagrant命令详解.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/ubuntu-lamp环境搭建.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/Sublime配置记录.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/rails开始的静态页面.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/centos7搭建nginx-php环境.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/#如何使用 vagrant 搭建开发环境.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/hah.js",
+				"/C/Users/Chenkansheng/Desktop/周四课.markdown",
+				"/C/Users/Chenkansheng/Desktop/HTML5/a.css",
+				"/C/Users/Chenkansheng/Desktop/JS_note/Javascript基础语法.md",
+				"/C/Users/Chenkansheng/Desktop/Vuejs_note/install.md",
+				"/C/Users/Chenkansheng/Desktop/tmp/HTML5新增元素.md",
+				"/C/Users/Chenkansheng/Desktop/Zero/README.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/public/text.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/app.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/methods.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/validate.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/dbref.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/building_tutorials.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/middleware.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/getter.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/default.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/virtual.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/model.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/basicOpra.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/mongo_shell.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/setter.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/app.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/README.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/初识express框架.markdown",
+				"/C/Users/Chenkansheng/Desktop/我的云主机人工日志.markdown",
+				"/C/Users/Chenkansheng/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/sftp-config-alt.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/config/mongoose.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/package.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/model/user.server.model.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/config/config.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/find.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/findOne.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/remove.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/condition.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/node基础语法.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/nodejs开发环境安装.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/hahah.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/haha.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/insert.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/insert.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/import_example_dataset.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/summarize.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/crud.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/mongo_shell.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/install-MongoDB.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/find_require.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/building_tutorials.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/basicOpra.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/readme.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/.gitignore",
+				"/C/Users/Chenkansheng/Desktop/mynode/shareFolder/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/mynode.sublime-project",
+				"/C/Users/Chenkansheng/Desktop/mynode/root/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/package.json",
+				"/C/Users/Chenkansheng/Desktop/nodejs开发环境安装.markdown",
+				"/C/Users/Chenkansheng/Desktop/我的阿里服务器人工日志.markdown",
+				"/C/Users/Chenkansheng/Desktop/React_note/react-tutorial/node_modules/.4.14.0@express/lib/application.js",
+				"/C/Users/Chenkansheng/Desktop/我的阿里学生服务器日志.markdown",
+				"/C/Users/Chenkansheng/Desktop/React_note/test.js",
+				"/C/centos7/Vagrantfile",
+				"/C/Users/Chenkansheng/Desktop/React_note/Peter/readme.markdown",
+				"/C/Users/Chenkansheng/Desktop/React_note/sftp-config.json"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 121.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"羞羞",
+					"></",
+					"=\"\"></",
+					"></",
+					"\"></",
+					"dom",
+					"反对，不赞成",
+					"数据类型的分类",
+					": ",
+					"**",
+					"** ",
+					"sudo",
+					"%;\n",
+					";\n",
+					"right",
+					"JSX",
+					"script",
+					"function",
+					"().",
+					"false",
+					"org",
+					"Program",
+					"getUserUnoList",
+					"modifyBookType",
+					"getBookTypeIdList",
+					"updateBookTypeGrid",
+					"deleteBookType",
+					"bookTypeList",
+					"bookTypeId",
+					"bookTypeForm",
+					"280",
+					"width: 280,",
+					"类型编号",
+					"bookTypeGrid",
+					"showDeleteBookType",
+					"showModifyBookType",
+					"showAddBookType",
+					"新增书籍类型",
+					"BookTypeServlet",
+					"typeStore",
+					"BookType",
+					"detail",
+					"title",
+					"id",
+					"booktype",
+					"price",
+					"fclass",
+					"type_id",
+					"author",
+					"book_name",
+					"id",
+					"book",
+					"bookdb",
+					"setFname",
+					"setFno",
+					"getUserByFno",
+					"del_fno",
+					"getFssum",
+					"fssum",
+					"getFclasses",
+					"fclasses",
+					"getFname",
+					"fname",
+					"getFno",
+					"fno",
+					"faculty",
+					"getFaculties",
+					"faculties",
+					"Faculty",
+					"FacultyServlet",
+					"getUserByFno",
+					"fdao",
+					"fno",
+					"faculties",
+					"getFaculties",
+					"Faculty",
+					"getFname",
+					"faculties",
+					"getFaculties",
+					"fssum",
+					"setFssum",
+					"fclasses",
+					"setFclasses",
+					"fname",
+					"setFname",
+					"fno",
+					"setFno",
+					"faculty",
+					"Faculty",
+					"Password",
+					"UserName",
+					"fname",
+					"faculty",
+					"UpdateFaculty",
+					"Faculty",
+					"fno",
+					"faculty",
+					"Faculty",
+					"del_fno",
+					"fno_num",
+					"fno_length",
+					"fno_list",
+					"addFaculty_win",
+					"fssum",
+					"fclasses",
+					"fname",
+					"fno",
+					"facultyList",
+					"faculty_gridPanel",
+					"updateFaculty_formPanel",
+					"FacultyController",
+					"faculty",
+					"onClick_addFaculty",
+					"faculty",
+					"modifyClass",
+					"getClassByCno",
+					"del_cno",
+					"deleteClass",
+					"setCprof",
+					"sno",
+					"setCname",
+					"setCgrade",
+					"cfno",
+					"addClass",
+					"getCssum",
+					"cssum",
+					"getCprof",
+					"cprof"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"!"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 79.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 161.0
+			},
+			"output.find_results":
+			{
+				"height": 162.0
+			},
+			"output.markdown":
+			{
+				"height": 162.0
+			},
+			"output.nodejs":
+			{
+				"height": 140.0
+			},
+			"output.sftp":
+			{
+				"height": 189.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"blog\\package.json"
+					],
+					[
+						"public/stylesh",
+						"blog\\public\\stylesheets\\style.css"
+					],
+					[
+						"index.ej",
+						"blog\\views\\index.ejs"
+					],
+					[
+						"routes/in",
+						"blog\\routes\\index.js"
+					],
+					[
+						"in",
+						"blog\\views\\index.ejs"
+					],
+					[
+						"ind",
+						"mynode\\learnmongo\\index.js"
+					],
+					[
+						"us",
+						"blog\\routes\\users.js"
+					],
+					[
+						"app",
+						"blog\\app.js"
+					],
+					[
+						"user",
+						"blog\\routes\\users.js"
+					],
+					[
+						"se",
+						"learnmongo\\setter.js"
+					],
+					[
+						"de",
+						"learnmongo\\default.js"
+					],
+					[
+						"导学",
+						"React导学.markdown"
+					],
+					[
+						"tu/index",
+						"react-tutorial\\public\\index.html"
+					],
+					[
+						"peter/indhm",
+						"Peter\\index.html"
+					],
+					[
+						"peter/in",
+						"Peter\\index.css"
+					],
+					[
+						"peter/re",
+						"Peter\\readme.markdown"
+					],
+					[
+						"shiyanl/adm",
+						"shiyanlou\\blog\\admin.py"
+					],
+					[
+						"shiyanl/blog/mod",
+						"shiyanlou\\blog\\models.py"
+					],
+					[
+						"mysite/ad",
+						"mysite\\blog\\admin.py"
+					],
+					[
+						"ad",
+						"shiyanlou\\blog\\admin.py"
+					],
+					[
+						"shi/man",
+						"shiyanlou\\manage.py"
+					],
+					[
+						"shi/set",
+						"shiyanlou\\shiyanlou\\settings.py"
+					],
+					[
+						"shi/see",
+						"shiyanlou\\shiyanlou\\templates\\rightnow.html"
+					],
+					[
+						"模板",
+						"shiyanlou\\模板(二).md"
+					],
+					[
+						".md",
+						"shiyanlou\\模板(二).md"
+					],
+					[
+						"shi/se",
+						"shiyanlou\\shiyanlou\\settings.py"
+					],
+					[
+						"west/ur",
+						"mysite\\west\\urls.py"
+					],
+					[
+						"set",
+						"mysite\\mysite\\settings.py"
+					],
+					[
+						".js",
+						"Cnotes\\Chrome快捷键_files\\home.js"
+					],
+					[
+						"index",
+						"tmp\\index.html"
+					],
+					[
+						"mar",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"tas",
+						"Cnotes\\task.md"
+					],
+					[
+						"testpy",
+						"tmp\\testpy.py"
+					],
+					[
+						"tespy",
+						"tmp\\testpy.py"
+					],
+					[
+						"rai",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"tesp",
+						"tmp\\testpy.py"
+					],
+					[
+						"ta",
+						"Cnotes\\task.md"
+					],
+					[
+						"rou",
+						"meetup\\config\\routes.rb"
+					],
+					[
+						"postcon",
+						"meetup\\app\\controllers\\posts_controller.rb"
+					],
+					[
+						"ro",
+						"meetup\\config\\routes.rb"
+					],
+					[
+						"ra",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"rails",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"first",
+						"meetup\\app\\views\\welcome\\first.html.erb"
+					],
+					[
+						"rail",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"rails.md",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"",
+						"Mongodb_note\\find_require.md"
+					],
+					[
+						"task",
+						"Cnotes\\task.md"
+					],
+					[
+						"tad",
+						"Cnotes\\task.md"
+					],
+					[
+						"ru",
+						"Ruby_note\\Ruby基础语法.md"
+					],
+					[
+						"tesrb",
+						"rails-va\\test.rb"
+					],
+					[
+						"index.css",
+						"tmp\\maiziedu\\css\\index.css"
+					],
+					[
+						"re",
+						"JS_note\\RegExp.html"
+					],
+					[
+						"regm",
+						"JS_note\\RegExp.md"
+					],
+					[
+						"op",
+						"Mongodb_note\\basicOpra.md"
+					],
+					[
+						"mk",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"mon",
+						"Mongodb_note\\mongodb_shell.md"
+					],
+					[
+						"mak",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"mong",
+						"Mongodb_note\\mongodb_shell.md"
+					],
+					[
+						"indec",
+						"tmp\\css\\index.css"
+					],
+					[
+						"com",
+						"tmp\\css\\common.css"
+					],
+					[
+						"cla",
+						"app\\model\\Clas.js"
+					],
+					[
+						"mian",
+						"app\\view\\main\\MainController.js"
+					],
+					[
+						"main",
+						"app\\view\\main\\Main.js"
+					],
+					[
+						"logi",
+						"app\\view\\login\\LoginController.js"
+					],
+					[
+						"we",
+						"C:\\Users\\Chenkansheng\\Desktop\\web.js"
+					],
+					[
+						"i",
+						"CH01\\index.htm"
+					],
+					[
+						"背包",
+						"CH01\\背包客旅行札记.htm"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Chenkansheng\\Desktop\\mynode\\mynode.sublime-project"
+					],
+					[
+						"learnH",
+						"E:\\Develop\\SublimeText3\\learnHexo.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 258.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 5
+			}
+		},
+		"new_window_width": 1220.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"function with name"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bo",
+						"border-box"
+					],
+					[
+						"B",
+						"BookAdmin\tclass"
+					],
+					[
+						"li",
+						"list_display"
+					],
+					[
+						"datim",
+						"DATETIME_INPUT_FORMATS"
+					],
+					[
+						"httpse",
+						"HttpResponse\tclass"
+					],
+					[
+						"max",
+						"max_length"
+					],
+					[
+						"Httprep",
+						"HttpResponse\tclass"
+					],
+					[
+						"scrip",
+						"script\tTag"
+					],
+					[
+						"script",
+						"script\tTag"
+					],
+					[
+						"datez",
+						"date_default_timezone_set"
+					],
+					[
+						"echo",
+						"echo\techo \"…\""
+					],
+					[
+						"src",
+						"source\tTag"
+					],
+					[
+						"u",
+						"utf-8"
+					],
+					[
+						"ta",
+						"tabindex\tAttr"
+					],
+					[
+						"fo",
+						"format\tfunction"
+					],
+					[
+						"cla",
+						"cla\tclass .. initialize .. end"
+					],
+					[
+						"mod",
+						"mod\tmodule .. end"
+					],
+					[
+						"ligh",
+						"lightsalmon"
+					],
+					[
+						"lig",
+						"lightpink"
+					],
+					[
+						"light",
+						"lightgoldenrodyellow"
+					],
+					[
+						"rea",
+						"relative"
+					],
+					[
+						"yel",
+						"yellowgreen"
+					],
+					[
+						"ind",
+						"z-index"
+					],
+					[
+						"dee",
+						"darkseagreen"
+					],
+					[
+						"deep",
+						"deepskyblue"
+					],
+					[
+						"arr",
+						"arr.png\tw:5 h:6"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"up",
+						"upper-armenian"
+					],
+					[
+						"dec",
+						"decimal-leading-zero"
+					],
+					[
+						"ste",
+						"style\tAttr"
+					],
+					[
+						"Math",
+						"Math.PI\tMath"
+					],
+					[
+						"gete",
+						"getElementsByTagName(name)\tElement"
+					],
+					[
+						"scri",
+						"script\tTag"
+					],
+					[
+						"aler",
+						"alert(message)\tWindow"
+					],
+					[
+						"v",
+						"var "
+					],
+					[
+						"srip",
+						"script\tTag"
+					],
+					[
+						"for",
+						"for-k"
+					],
+					[
+						"rq",
+						"request"
+					],
+					[
+						"get",
+						"getParameter"
+					],
+					[
+						"getU",
+						"getUphone"
+					],
+					[
+						"set",
+						"setInt"
+					],
+					[
+						"setu",
+						"setUphone"
+					],
+					[
+						"getc",
+						"getScomefrom"
+					],
+					[
+						"updateFacu",
+						"updateFaculty"
+					],
+					[
+						"modify",
+						"modifyFaculty_formPanel"
+					],
+					[
+						"新增",
+						"新增书籍成功"
+					],
+					[
+						"httpcrea",
+						"http.createServer(requestListener);"
+					],
+					[
+						"asserr",
+						"assert.strictEqual(actual, expected, message);"
+					],
+					[
+						"cont",
+						"console.trace();"
+					],
+					[
+						"e",
+						"end\t.end()"
+					],
+					[
+						"cons",
+						"console.error();"
+					],
+					[
+						"fswitefile",
+						"fs.writeFile(path, data, options, callback_);"
+					],
+					[
+						"writeF",
+						"fs.writeFile(path, data, options, callback_);"
+					],
+					[
+						"PH",
+						"phpversion"
+					],
+					[
+						"map",
+						"mapping"
+					],
+					[
+						"des",
+						"destroy"
+					],
+					[
+						"log",
+						"login"
+					],
+					[
+						"lg",
+						"loginPanel"
+					],
+					[
+						"bu",
+						"buttonAlign"
+					],
+					[
+						"x",
+						"xtype"
+					],
+					[
+						"f",
+						"form"
+					],
+					[
+						"pan",
+						"Panel"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"vie",
+						"viewport"
+					],
+					[
+						"pl",
+						"plugins"
+					],
+					[
+						"si",
+						"SIMIS"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"st",
+						"strokeWidth"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"bow",
+						"browser\t$.browser()"
+					],
+					[
+						"he",
+						"height\tAttr"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "waitfive.js",
+					"settings":
+					{
+						"buffer_size": 318,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "asynchronous.js",
+					"settings":
+					{
+						"buffer_size": 424,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "css.markdown",
+					"settings":
+					{
+						"buffer_size": 5006,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "pli",
+				"selected_items":
+				[
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"packrep",
+						"Package Control: Remove Package"
+					],
+					[
+						"packli",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"save",
+						"Project: Save As"
+					],
+					[
+						"project",
+						"Project: Save As"
+					],
+					[
+						"p",
+						"Package Control: List Packages"
+					],
+					[
+						"pai",
+						"Package Control: Install Package"
+					],
+					[
+						"py",
+						"Set Syntax: Python"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"ph",
+						"Set Syntax: PHP"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"pdi",
+						"Package Control: Disable Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pc",
+						"Package Control: List Packages"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"pd",
+						"Package Control: Disable Package"
+					],
+					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: p",
+						"Package Control: List Packages"
+					],
+					[
+						"pal",
+						"Package Control: List Packages"
+					],
+					[
+						"paci",
+						"Package Control: Install Package"
+					],
+					[
+						"pkl",
+						"Package Control: List Packages"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"l",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgerp",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pkgr",
+						"Package Control: Remove Package"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"users",
+						"Nodejs::User File Settings"
+					],
+					[
+						"pains",
+						"Package Control: Install Package"
+					],
+					[
+						"side B",
+						"View: Toggle Side Bar"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"m",
+						"Set Syntax: Markdown"
+					],
+					[
+						"mak",
+						"Set Syntax: Markdown"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"List",
+						"Package Control: List Packages"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"jsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"Node",
+						"Nodejs::NPM::Command"
+					],
+					[
+						"nodejs",
+						"Nodejs::Build Completions"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"tex",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jad",
+						"Set Syntax: Jade"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Add Channel"
+					],
+					[
+						"package",
+						"Package Control: Discover Packages"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"ja",
+						"Set Syntax: Java"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"j",
+						"Set Syntax: Java"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"pci",
+						"Package Control: List Packages"
+					],
+					[
+						" pci",
+						"Package Control: List Packages"
+					],
+					[
+						"pci R",
+						"Package Control: List Packages"
+					],
+					[
+						"PCI",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 510.0
+			},
+			"console":
+			{
+				"height": 147.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Chenkansheng/Desktop/mynode"
+			],
+			"file_history":
+			[
+				"/C/Users/Chenkansheng/Desktop/mynode/css.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/bin/www",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/app.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/config/config.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/app.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/node基础语法.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/test.html",
+				"/C/Users/Chenkansheng/Desktop/我的云主机人工日志.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/html.markdown",
+				"/C/Users/Chenkansheng/Desktop/words.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/css.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/index.css",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/demo-00.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/css/demo-00.css",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/test.html",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/background-img-fixed.html",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/text-final.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/sky.png",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/background-img-scroll.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/backlight.jpg",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/bg-pattern.jpg",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/img/bluemosaic.jpg",
+				"/C/Users/Chenkansheng/Desktop/chapter-10/no-styles.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/demo/demo00.htm",
+				"/C/Users/Chenkansheng/Desktop/mynode/index.html",
+				"/C/Users/Chenkansheng/Desktop/blog/app.js",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/index.js",
+				"/C/Users/Chenkansheng/Desktop/blog/views/reg.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/models/user.js",
+				"/C/Users/Chenkansheng/Desktop/blog/views/index.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/views/header.ejs",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Vagrant-l/SublimeNote.md",
+				"/F/程序驱动/新建文件夹/Hotfixs/1115024/_1024核工厂欢迎您.mht",
+				"/C/Users/Chenkansheng/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Vagrant-l/Sublime配置记录.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/Ruby面向对象.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/Ruby基础语法.md",
+				"/C/Users/Chenkansheng/Desktop/Cnotes/Ruby_note/rails基础.md",
+				"/C/Users/Chenkansheng/Desktop/blog/models/db.js",
+				"/C/Users/Chenkansheng/Desktop/blog/public/stylesheets/style.css",
+				"/C/Users/Chenkansheng/Desktop/blog/package.json",
+				"/C/Users/Chenkansheng/Desktop/blog/views/login.ejs",
+				"/C/Users/Chenkansheng/Desktop/app.js",
+				"/C/Users/Chenkansheng/Desktop/blog/setting.js",
+				"/C/Users/Chenkansheng/AppData/Local/Temp/360zip$Temp/360$0/README",
+				"/C/Users/Chenkansheng/Desktop/blog/views/footer.ejs",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/user.js",
+				"/C/Users/Chenkansheng/Desktop/blog/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/index.js",
+				"/C/Users/Chenkansheng/Desktop/blog/bin/www",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/web.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/express.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/tcp.js",
+				"/C/Users/Chenkansheng/Downloads/node-style-guide-master/README.md",
+				"/C/Users/Chenkansheng/Desktop/RegExp.markdown",
+				"/C/Users/Chenkansheng/Desktop/shiyanlou/模板(二).md",
+				"/C/Users/Chenkansheng/Desktop/JS_note/RegExp.md",
+				"/C/Users/Chenkansheng/Desktop/Ruby_note/Ruby面向对象.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/vagrantfile配置详解.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/安装rails.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/Vagrant命令详解.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/ubuntu-lamp环境搭建.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/Sublime配置记录.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/rails开始的静态页面.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/centos7搭建nginx-php环境.md",
+				"/C/Users/Chenkansheng/Desktop/Vagrant-l/#如何使用 vagrant 搭建开发环境.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/hah.js",
+				"/C/Users/Chenkansheng/Desktop/周四课.markdown",
+				"/C/Users/Chenkansheng/Desktop/HTML5/a.css",
+				"/C/Users/Chenkansheng/Desktop/JS_note/Javascript基础语法.md",
+				"/C/Users/Chenkansheng/Desktop/Vuejs_note/install.md",
+				"/C/Users/Chenkansheng/Desktop/tmp/HTML5新增元素.md",
+				"/C/Users/Chenkansheng/Desktop/Zero/README.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/public/text.html",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/methods.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/validate.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/dbref.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/building_tutorials.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/middleware.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/getter.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/default.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/virtual.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/model.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/basicOpra.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/mongo_shell.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/setter.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/README.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/初识express框架.markdown",
+				"/C/Users/Chenkansheng/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/sftp-config-alt.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/routes/users.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/config/mongoose.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/package.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/MongoExpressDemo/model/user.server.model.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/find.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/findOne.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/remove.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/condition.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/nodejs开发环境安装.markdown",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/hahah.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/haha.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/insert.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/insert.js",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/import_example_dataset.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/summarize.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnmongo/crud.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/mongo_shell.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/install-MongoDB.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/find_require.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/building_tutorials.md",
+				"/C/Users/Chenkansheng/Desktop/Mongodb_note/basicOpra.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/readme.md",
+				"/C/Users/Chenkansheng/Desktop/mynode/learnredis/.gitignore",
+				"/C/Users/Chenkansheng/Desktop/mynode/shareFolder/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/mynode.sublime-project",
+				"/C/Users/Chenkansheng/Desktop/mynode/root/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/sftp-config.json",
+				"/C/Users/Chenkansheng/Desktop/mynode/src/app_demo/package.json",
+				"/C/Users/Chenkansheng/Desktop/nodejs开发环境安装.markdown",
+				"/C/Users/Chenkansheng/Desktop/我的阿里服务器人工日志.markdown",
+				"/C/Users/Chenkansheng/Desktop/React_note/react-tutorial/node_modules/.4.14.0@express/lib/application.js",
+				"/C/Users/Chenkansheng/Desktop/我的阿里学生服务器日志.markdown",
+				"/C/Users/Chenkansheng/Desktop/React_note/test.js",
+				"/C/centos7/Vagrantfile",
+				"/C/Users/Chenkansheng/Desktop/React_note/Peter/readme.markdown"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 121.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"羞羞",
+					"></",
+					"=\"\"></",
+					"></",
+					"\"></",
+					"dom",
+					"反对，不赞成",
+					"数据类型的分类",
+					": ",
+					"**",
+					"** ",
+					"sudo",
+					"%;\n",
+					";\n",
+					"right",
+					"JSX",
+					"script",
+					"function",
+					"().",
+					"false",
+					"org",
+					"Program",
+					"getUserUnoList",
+					"modifyBookType",
+					"getBookTypeIdList",
+					"updateBookTypeGrid",
+					"deleteBookType",
+					"bookTypeList",
+					"bookTypeId",
+					"bookTypeForm",
+					"280",
+					"width: 280,",
+					"类型编号",
+					"bookTypeGrid",
+					"showDeleteBookType",
+					"showModifyBookType",
+					"showAddBookType",
+					"新增书籍类型",
+					"BookTypeServlet",
+					"typeStore",
+					"BookType",
+					"detail",
+					"title",
+					"id",
+					"booktype",
+					"price",
+					"fclass",
+					"type_id",
+					"author",
+					"book_name",
+					"id",
+					"book",
+					"bookdb",
+					"setFname",
+					"setFno",
+					"getUserByFno",
+					"del_fno",
+					"getFssum",
+					"fssum",
+					"getFclasses",
+					"fclasses",
+					"getFname",
+					"fname",
+					"getFno",
+					"fno",
+					"faculty",
+					"getFaculties",
+					"faculties",
+					"Faculty",
+					"FacultyServlet",
+					"getUserByFno",
+					"fdao",
+					"fno",
+					"faculties",
+					"getFaculties",
+					"Faculty",
+					"getFname",
+					"faculties",
+					"getFaculties",
+					"fssum",
+					"setFssum",
+					"fclasses",
+					"setFclasses",
+					"fname",
+					"setFname",
+					"fno",
+					"setFno",
+					"faculty",
+					"Faculty",
+					"Password",
+					"UserName",
+					"fname",
+					"faculty",
+					"UpdateFaculty",
+					"Faculty",
+					"fno",
+					"faculty",
+					"Faculty",
+					"del_fno",
+					"fno_num",
+					"fno_length",
+					"fno_list",
+					"addFaculty_win",
+					"fssum",
+					"fclasses",
+					"fname",
+					"fno",
+					"facultyList",
+					"faculty_gridPanel",
+					"updateFaculty_formPanel",
+					"FacultyController",
+					"faculty",
+					"onClick_addFaculty",
+					"faculty",
+					"modifyClass",
+					"getClassByCno",
+					"del_cno",
+					"deleteClass",
+					"setCprof",
+					"sno",
+					"setCname",
+					"setCgrade",
+					"cfno",
+					"addClass",
+					"getCssum",
+					"cssum",
+					"getCprof",
+					"cprof"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"!"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "waitfive.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 318,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										315,
+										315
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"_anf_new": "",
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "asynchronous.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										282,
+										282
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"_anf_new": "",
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "css.markdown",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5006,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5005,
+										5005
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5291.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 79.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 161.0
+			},
+			"output.find_results":
+			{
+				"height": 162.0
+			},
+			"output.markdown":
+			{
+				"height": 162.0
+			},
+			"output.nodejs":
+			{
+				"height": 140.0
+			},
+			"output.sftp":
+			{
+				"height": 189.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,877,376,122,1612",
+			"project": "mynode.sublime-project",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"blog\\package.json"
+					],
+					[
+						"public/stylesh",
+						"blog\\public\\stylesheets\\style.css"
+					],
+					[
+						"index.ej",
+						"blog\\views\\index.ejs"
+					],
+					[
+						"routes/in",
+						"blog\\routes\\index.js"
+					],
+					[
+						"in",
+						"blog\\views\\index.ejs"
+					],
+					[
+						"ind",
+						"mynode\\learnmongo\\index.js"
+					],
+					[
+						"us",
+						"blog\\routes\\users.js"
+					],
+					[
+						"app",
+						"blog\\app.js"
+					],
+					[
+						"user",
+						"blog\\routes\\users.js"
+					],
+					[
+						"se",
+						"learnmongo\\setter.js"
+					],
+					[
+						"de",
+						"learnmongo\\default.js"
+					],
+					[
+						"导学",
+						"React导学.markdown"
+					],
+					[
+						"tu/index",
+						"react-tutorial\\public\\index.html"
+					],
+					[
+						"peter/indhm",
+						"Peter\\index.html"
+					],
+					[
+						"peter/in",
+						"Peter\\index.css"
+					],
+					[
+						"peter/re",
+						"Peter\\readme.markdown"
+					],
+					[
+						"shiyanl/adm",
+						"shiyanlou\\blog\\admin.py"
+					],
+					[
+						"shiyanl/blog/mod",
+						"shiyanlou\\blog\\models.py"
+					],
+					[
+						"mysite/ad",
+						"mysite\\blog\\admin.py"
+					],
+					[
+						"ad",
+						"shiyanlou\\blog\\admin.py"
+					],
+					[
+						"shi/man",
+						"shiyanlou\\manage.py"
+					],
+					[
+						"shi/set",
+						"shiyanlou\\shiyanlou\\settings.py"
+					],
+					[
+						"shi/see",
+						"shiyanlou\\shiyanlou\\templates\\rightnow.html"
+					],
+					[
+						"模板",
+						"shiyanlou\\模板(二).md"
+					],
+					[
+						".md",
+						"shiyanlou\\模板(二).md"
+					],
+					[
+						"shi/se",
+						"shiyanlou\\shiyanlou\\settings.py"
+					],
+					[
+						"west/ur",
+						"mysite\\west\\urls.py"
+					],
+					[
+						"set",
+						"mysite\\mysite\\settings.py"
+					],
+					[
+						".js",
+						"Cnotes\\Chrome快捷键_files\\home.js"
+					],
+					[
+						"index",
+						"tmp\\index.html"
+					],
+					[
+						"mar",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"tas",
+						"Cnotes\\task.md"
+					],
+					[
+						"testpy",
+						"tmp\\testpy.py"
+					],
+					[
+						"tespy",
+						"tmp\\testpy.py"
+					],
+					[
+						"rai",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"tesp",
+						"tmp\\testpy.py"
+					],
+					[
+						"ta",
+						"Cnotes\\task.md"
+					],
+					[
+						"rou",
+						"meetup\\config\\routes.rb"
+					],
+					[
+						"postcon",
+						"meetup\\app\\controllers\\posts_controller.rb"
+					],
+					[
+						"ro",
+						"meetup\\config\\routes.rb"
+					],
+					[
+						"ra",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"rails",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"first",
+						"meetup\\app\\views\\welcome\\first.html.erb"
+					],
+					[
+						"rail",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"rails.md",
+						"Ruby_note\\rails基础.md"
+					],
+					[
+						"",
+						"Mongodb_note\\find_require.md"
+					],
+					[
+						"task",
+						"Cnotes\\task.md"
+					],
+					[
+						"tad",
+						"Cnotes\\task.md"
+					],
+					[
+						"ru",
+						"Ruby_note\\Ruby基础语法.md"
+					],
+					[
+						"tesrb",
+						"rails-va\\test.rb"
+					],
+					[
+						"index.css",
+						"tmp\\maiziedu\\css\\index.css"
+					],
+					[
+						"re",
+						"JS_note\\RegExp.html"
+					],
+					[
+						"regm",
+						"JS_note\\RegExp.md"
+					],
+					[
+						"op",
+						"Mongodb_note\\basicOpra.md"
+					],
+					[
+						"mk",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"mon",
+						"Mongodb_note\\mongodb_shell.md"
+					],
+					[
+						"mak",
+						"Cnotes\\markdown语法.md"
+					],
+					[
+						"mong",
+						"Mongodb_note\\mongodb_shell.md"
+					],
+					[
+						"indec",
+						"tmp\\css\\index.css"
+					],
+					[
+						"com",
+						"tmp\\css\\common.css"
+					],
+					[
+						"cla",
+						"app\\model\\Clas.js"
+					],
+					[
+						"mian",
+						"app\\view\\main\\MainController.js"
+					],
+					[
+						"main",
+						"app\\view\\main\\Main.js"
+					],
+					[
+						"logi",
+						"app\\view\\login\\LoginController.js"
+					],
+					[
+						"we",
+						"C:\\Users\\Chenkansheng\\Desktop\\web.js"
+					],
+					[
+						"i",
+						"CH01\\index.htm"
+					],
+					[
+						"背包",
+						"CH01\\背包客旅行札记.htm"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"C:\\Users\\Chenkansheng\\Desktop\\mynode\\mynode.sublime-project"
+					],
+					[
+						"learnH",
+						"E:\\Develop\\SublimeText3\\learnHexo.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 258.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 5
+			},
+			"window_id": 53,
+			"workspace_name": "/C/Users/Chenkansheng/Desktop/mynode/mynode.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/Chenkansheng/Desktop/mynode/mynode.sublime-workspace"
+		]
+	}
+}

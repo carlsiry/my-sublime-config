@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"Better Completion",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Http Requester",
+		"Insert Callback",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"ReactJS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Terminal"
+	]
+}

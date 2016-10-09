@@ -1,0 +1,14 @@
+[
+	{
+	
+	//打开Preferences->Key Binding User，添加下面一句话。
+    "keys": ["f6"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}
+    
+	},
+    { 
+        "keys": ["ctrl+,"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"}
+    },
+   /* {
+        "keys": ["ctrl+alt+p"], "command": "quick_switch_project",
+    }*/
+]
